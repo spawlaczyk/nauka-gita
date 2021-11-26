@@ -15,3 +15,10 @@
 	font-size: 15px;
 	font-family: 'Inter', sans-serif;
 }
+.description {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 15px;
+}
+span {
+	font-style: oblique;
+}
